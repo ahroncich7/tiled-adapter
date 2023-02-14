@@ -1,8 +1,8 @@
 import fs from "fs";
 import { gameMap } from "./gameMap.js";
-import { twoDiMapModel } from "./twoDiMapModel.js";
-import { tileModel } from "./tileModel.js";
-import { mapModel } from "./mapModel.js";
+import { twoDiMapModel } from "./grid/twoDiMapModel.js";
+import { tileModel } from "./tiles/tileModel.js";
+import { mapModel } from "./grid/mapModel.js";
 
 export class tiledAdapter {
 
