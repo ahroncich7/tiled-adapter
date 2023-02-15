@@ -1,7 +1,11 @@
 export class gameMap {
 
     constructor(mapGrid, tilesList) {
+        
+        this.width = mapGrid.width;
 
+        this.height = mapGrid.height;
+        
         if (mapGrid.grid[0].length){
             this.grid = this.#create2DGrid(mapGrid, tilesList);
             
