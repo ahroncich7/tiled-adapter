@@ -12,7 +12,7 @@ Export your map in Tiled. In map window => File => Export As and select "JSON ma
 
 ![create map](https://i.ibb.co/FWH4Dfq/image.png)
 
-Next, do the same with the tile set. First, you can edit your tile set to define custom properties for each tile which can be catched by the tiled-adapter module:
+Next, do the same with the tile set. First, you can edit your tile set to define custom properties for each tile, which will be catched by the tiled-adapter module:
 
 ![tile editor](https://i.ibb.co/BVCvFZd/image.png)
 
