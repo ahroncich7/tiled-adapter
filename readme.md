@@ -37,7 +37,7 @@ npm install tiled-adapter
 
 <br>
 
-To get a javascript map from the Tiled files:
+To get a javascript object map from the Tiled files:
 
 ```
 import { adapter } from "tiledAdapter";
