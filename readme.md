@@ -1,4 +1,4 @@
-# <span style="color:green">**|**</span> Tiled-Adapter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ![badge](https://img.shields.io/badge/Status-in%20progress-yellowgreen) ![version](https://img.shields.io/badge/version-0.1.0-green)
+# <span style="color:green">**|**</span> Tiled-Adapter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ![badge](https://img.shields.io/badge/Status-in%20progress-yellowgreen) ![version](https://img.shields.io/npm/v/tiled-adapter)
 
 *NPM module. Export a json map from [Tiled](https://www.mapeditor.org/) and get a map object*
 
