@@ -1,13 +1,10 @@
 {
   "name": "tiled-adapter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Export a json map from Tiled and get a map object",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/ahroncich7/tiled-adapter.git"
@@ -15,5 +12,6 @@
   "keywords": [],
   "author": "Alejandro Hroncich",
   "license": "MIT",
-  "homepage": "https://github.com/ahroncich7/tiled-adapter#readme.md"
+  "homepage": "https://github.com/ahroncich7/tiled-adapter#readme.md",
+  "dependencies": {}
 }

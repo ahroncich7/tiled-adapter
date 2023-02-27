@@ -29,7 +29,7 @@ export class gameMap {
     #create2DGrid(mapGrid, tilesList) {
         return mapGrid.grid.map(row => {
             return row.map(cell => {
-                let terrain = tilesList.find(type => type.id === Number(cell) - 1);
+                let terrain = tilesList.find(type => type.typeId === Number(cell));
                 if (terrain) {
                     return terrain;
                 } else {
