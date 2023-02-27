@@ -128,27 +128,27 @@ Note that you can define any number of custom properties for each tile, as long 
 ```
 {
     width: 4,
-        height: 2,
-            grid: [
-                [
-                    customTile {
-                        typeId: 0,
-                        type: 'grass',
-                        canBuild: true,
-                        isPassable: true,
-                        cost: 1
-                    },
-                    customTile {
-                        typeId: 0,
-                        type: 'grass',
-                        canBuild: true,
-                        isPassable: true,
-                        cost: 1
-                    }
-                ],
-               [...],
-               [...],
-               [...]
+    height: 2,
+        grid: [
+            [
+                customTile {
+                    typeId: 0,
+                    type: 'grass',
+                    canBuild: true,
+                    isPassable: true,
+                    cost: 1
+                },
+                customTile {
+                    typeId: 0,
+                    type: 'grass',
+                    canBuild: true,
+                    isPassable: true,
+                    cost: 1
+                }
+            ],
+            [...],
+            [...],
+            [...]
 }
 ```
 
